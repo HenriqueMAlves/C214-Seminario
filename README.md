@@ -24,7 +24,7 @@ yarn
 ```
 
 # 🚀 Iniciando o Server
-ma vez que as dependencias foram instaladas com sucesso é possível iniciar o servidor localmente usando o comando:
+Uma vez que as dependencias foram instaladas com sucesso é possível iniciar o servidor localmente usando o comando:
 ```
 yarn dev
 ```
