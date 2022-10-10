@@ -23,19 +23,6 @@ export class User {
   public getPassword(): String{
     return this.password;
   }
-
-  public setName(name: String): void{
-    this.name = name;
-  }
-
-  public setEmail(email: String): void{
-    this.email = email;
-  }
-
-  public setPassword(password: String): void{
-    this.email = password;
-  }
-
 }
 
 export default user;
